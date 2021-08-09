@@ -1,0 +1,12 @@
+{
+  "name": "svelte-cross-unit",
+  "version": "0.1.0",
+  "description": "Enable Svelte to work across compilation units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC"
+}
